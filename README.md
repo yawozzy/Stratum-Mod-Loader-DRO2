@@ -3,7 +3,7 @@
 ## Install / Установка
 
 1. Close the game. / Закройте игру.
-2. Copy **winhttp.dll** next to the game's EXE. Replace the previous STRATUM DLL when updating. / Скопируйте **winhttp.dll** рядом с EXE игры; при обновлении замените прежнюю DLL STRATUM.
+2. Copy **winhttp.dll** next to the game's EXE. / Скопируйте **winhttp.dll** рядом с EXE игры
 3. Start the game through Steam. Press **Insert** to open or close the menu. / Запустите игру через Steam. **Insert** открывает и закрывает меню.
 
 ## Mods / Моды
