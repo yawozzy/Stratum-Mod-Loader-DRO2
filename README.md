@@ -1,8 +1,5 @@
 # STRATUM
 
-In-game mod loader for **CarX Drift Racing Online 2 / Windows x64**.
-Loader **0.9.0** · Native ABI **1** · **.strmod v2** · SDK **0.9.1**.
-
 ## Install / Установка
 
 1. Close the game. / Закройте игру.
