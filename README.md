@@ -23,8 +23,4 @@ STRATUM/Configs    settings / настройки
 STRATUM/Logs       logs / журналы
 ```
 
-Supports native C++ and C# Native AOT packages. Existing managed/BepInEx DLLs need source adaptation and rebuilding. Players do not need the SDK or a separate .NET/BepInEx installation.
-
-Поддерживаются нативные C++ и C# Native AOT пакеты. Старые управляемые/BepInEx DLL требуют адаптации исходников и пересборки. Игроку не нужны SDK и отдельная установка .NET/BepInEx.
-
 For developers: https://github.com/yawozzy/StratumMod-SDK/tree/main/Stratum-SDK
